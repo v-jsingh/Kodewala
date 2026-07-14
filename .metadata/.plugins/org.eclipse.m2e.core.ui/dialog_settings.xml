@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/admin/Downloads/zepto-products 3/src/main/java/com/zepto/service/ProductService.java"/>
+			<item value="/Users/admin/eclipse-workspace/blinkit/src/main/java/com/blinkit/entity/CategoryEntity.java"/>
+			<item value="/Users/admin/eclipse-workspace/zepto-e2e/src/main/java/com/zepto/controller/OrderController.java"/>
+			<item value="/Users/admin/eclipse-workspace/flipkart-search"/>
+			<item value="/Users/admin/eclipse-workspace/rapido-login"/>
+			<item value="/Users/admin/eclipse-workspace/rapido-login/src/main/java/com/rapido/controller"/>
+			<item value="/Users/admin/eclipse-workspace/sample-webapp"/>
+			<item value="/Users/admin/eclipse-workspace/primary-qualifier/src/main/java/kodewala/com/primary_qualifier/App.java"/>
+			<item value="/Users/admin/eclipse-workspace/spring-dependency-injection"/>
+			<item value="/Users/admin/eclipse-workspace/primary-qualifier/src/main/java/kodewala/com/springconfig/SpringConfig.java"/>
+			<item value="/Users/admin/eclipse-workspace/Setter-Injection/src/main/java/kodewala/com/Setter_Injection/beans/Address.java"/>
+			<item value="/Users/admin/eclipse-workspace/fieldinjection/src/main/java/kodewala/com/fieldinjection/beans/Employee.java"/>
+			<item value="/Users/admin/eclipse-workspace/fieldinjection/src/main/java/kodewala/com/fieldinjection/beans/Address.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.kodewala.one_two_many"/>
+			<item value="com.kodewala.instamart_products"/>
+			<item value="com.kodewala.blinkit"/>
+			<item value="com.kodewala.zepto_e2e"/>
+			<item value="com.kodewala"/>
+			<item value="com.kodewala.aynav_tech"/>
+			<item value="com.kodewala.flipkart_search"/>
+			<item value="kodewala.com"/>
+			<item value="kodewala.com.rapido_login"/>
+			<item value="kodewala.com.webapp"/>
+			<item value="kodewala.com.sample_webapp"/>
+			<item value="kodewala.com.PrimQualPr"/>
+			<item value="kodewala.com.SpringPractise"/>
+			<item value="kodewala.com.constructorinjection"/>
+			<item value="kodewala.com.thursday"/>
+		</list>
+		<list key="groupId">
+			<item value="com.kodewala"/>
+			<item value="rapido.com"/>
+			<item value="kodewala.com"/>
+		</list>
+		<list key="artifactId">
+			<item value="one-two-many"/>
+			<item value="instamart-products"/>
+			<item value="blinkit"/>
+			<item value="zepto-e2e"/>
+			<item value="aynav-tech"/>
+			<item value="flipkart-search"/>
+			<item value="amazon-search"/>
+			<item value="Rapido-login"/>
+			<item value="rapido-login"/>
+			<item value="webapp"/>
+			<item value="sample-webapp"/>
+			<item value="PrimQualPr"/>
+			<item value="SpringPractise"/>
+			<item value="constructorinjection"/>
+			<item value="thursday"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

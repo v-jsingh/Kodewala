@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.practise.entity.ObjectEntity&apos; to &apos;CategoryEntity&apos;&#x0A;- Original project: &apos;one-two-many&apos;&#x0A;- Original element: &apos;com.practise.entity.ObjectEntity&apos;&#x0A;- Renamed element: &apos;com.practise.entity.CategoryEntity&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ObjectEntity&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.practise.entity{ObjectEntity.java[ObjectEntity" matchStrategy="1" name="CategoryEntity" qualified="false" references="true" similarDeclarations="false" stamp="1782835850588" textual="false" version="1.0"/>
+</session>

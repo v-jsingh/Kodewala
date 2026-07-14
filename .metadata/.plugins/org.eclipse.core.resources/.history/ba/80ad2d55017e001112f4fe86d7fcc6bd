@@ -1,0 +1,5 @@
+package com.irctc.booking.payment.entity;
+
+public class PaymentEntity {
+
+}

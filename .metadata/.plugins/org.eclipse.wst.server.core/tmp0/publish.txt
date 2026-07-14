@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Jun 30 17:03:24 IST 2026
+org.eclipse.jst.jee.server\:/binary\:/Users/admin/.m2/repository/org/springframework/spring-web/6.1.20/spring-web-6.1.20.jar=WEB-INF/lib/spring-web-6.1.20.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/admin/.m2/repository/org/springframework/spring-web/6.1.8/spring-web-6.1.8.jar=WEB-INF/lib/spring-web-6.1.8.jar

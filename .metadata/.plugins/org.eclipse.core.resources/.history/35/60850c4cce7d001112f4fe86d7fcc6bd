@@ -1,0 +1,69 @@
+package com.irctc.booking.repsonse;
+
+
+
+import java.time.LocalDate;
+
+public class BookingResponse {
+
+    private Long bookingId;
+    private String pnr;
+   
+    private LocalDate journeyDate;
+    private String travelClass;
+    private String passengerName;
+    private String message;
+
+    public Long getBookingId() {
+        return bookingId;
+    }
+
+    public void setBookingId(Long bookingId) {
+        this.bookingId = bookingId;
+    }
+
+    public String getPnr() {
+        return pnr;
+    }
+
+    public void setPnr(String pnr) {
+        this.pnr = pnr;
+    }
+
+   
+
+  
+
+    public LocalDate getJourneyDate() {
+        return journeyDate;
+    }
+
+    public void setJourneyDate(LocalDate journeyDate) {
+        this.journeyDate = journeyDate;
+    }
+
+    public String getTravelClass() {
+        return travelClass;
+    }
+
+    public void setTravelClass(String travelClass) {
+        this.travelClass = travelClass;
+    }
+
+    public String getPassengerName() {
+        return passengerName;
+    }
+
+    public void setPassengerName(String passengerName) {
+        this.passengerName = passengerName;
+    }
+
+   
+    public String getMessage() {
+        return message;
+    }
+
+    public void setMessage(String message) {
+        this.message = message;
+    }
+}

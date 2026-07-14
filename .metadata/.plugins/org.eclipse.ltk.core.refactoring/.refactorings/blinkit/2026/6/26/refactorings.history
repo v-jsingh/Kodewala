@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;blinkit/views/blinkit.servlet.xml&apos; to &apos;blinkit-servlet.xml&apos;" description="Rename resource &apos;blinkit.servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="views/blinkit.servlet.xml" name="blinkit-servlet.xml" stamp="1782652988234" updateReferences="true"/>
+</session>

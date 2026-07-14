@@ -1,0 +1,5 @@
+package com.irctc.booking.entity;
+
+public class BookingEntity {
+
+}

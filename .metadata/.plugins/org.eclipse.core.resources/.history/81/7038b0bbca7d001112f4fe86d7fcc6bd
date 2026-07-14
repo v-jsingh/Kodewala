@@ -1,0 +1,5 @@
+package com.irctc.booking.repsonse;
+
+public class BookingResponse {
+
+}

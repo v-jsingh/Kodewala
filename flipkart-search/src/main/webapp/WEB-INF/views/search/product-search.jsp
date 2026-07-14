@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Flipkart Search</title>
+</head>
+<body>
+<form action="searchProduct" method="get">
+Search Product:<input type="text" name="searchText">
+</form>
+</body>
+</html>
